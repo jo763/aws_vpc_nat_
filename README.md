@@ -9,7 +9,7 @@
 - IPv4 and IPv6
 
 **VPC and its resources**
-![](add a VPC diagram)
+![](/images/vpc_1.png)
 - Route table rules
 - SG rules
 - subnets cidr blocks
